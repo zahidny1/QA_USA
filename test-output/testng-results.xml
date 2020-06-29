@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21152" started-at="2020-06-14T00:13:34 EDT" finished-at="2020-06-14T00:13:55 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21152" started-at="2020-06-14T00:13:34 EDT" finished-at="2020-06-14T00:13:55 EDT">
+      <class name="FaceBook.Maven_Project.FaceBookSignIn">
+        <test-method status="PASS" signature="signInTest()[pri:0, instance:FaceBook.Maven_Project.FaceBookSignIn@1b68ddbd]" name="signInTest" duration-ms="21020" started-at="2020-06-14T00:13:34 EDT" finished-at="2020-06-14T00:13:55 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+      </class> <!-- FaceBook.Maven_Project.FaceBookSignIn -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
